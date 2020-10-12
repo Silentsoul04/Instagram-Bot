@@ -1,5 +1,6 @@
 # Instagram-Bot
 An Instagram Bot using python
+
 This project require Selenium and Chrome Web Driver
 Functions that you can use:
 1. Comment tag Post 
