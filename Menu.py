@@ -91,7 +91,7 @@ class MenuOptions:
         isOkOptionLimit = True
         while isOkOptionLimit:
             try:
-                smart_follow = int(input('Follow doar la persoanele ce urmaresc mai multe persoane?, 1 - DA, 0 - NU \n'))  
+                smart_follow = int(input('Follow doar la persoanele ce urmaresc mai multe persoane decat sunt urmarite?, 1 - DA, 0 - NU \n'))  
                 if smart_follow == 0:
                     exit
                 isOkOptionLimit = False    
